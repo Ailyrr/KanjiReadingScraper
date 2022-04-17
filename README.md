@@ -1,5 +1,8 @@
 # KanjiReadingScraper
 Scraping the readings of kanjis from an original list containing those kanjis
+0#:
+
+You will need to install requests-html from pip. use -> "pip3 install requests-html" to get the library.
 
 1#:
 
@@ -15,3 +18,8 @@ FINISH
 
 You can use this program of course, id you'd like to make a video on it or reupload it please to credit me in the comments of the website where you will
 be reusing it. Thank you very much. ありがとうございます!
+
+
+
+How it looks once set up correctly
+![alt text](https://www.github.com/Ailyrr/KanjiReadingScraper/blob/main/codeInEditor.png?raw=true)
