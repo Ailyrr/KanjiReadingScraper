@@ -22,4 +22,4 @@ be reusing it. Thank you very much. ありがとうございます!
 
 
 How it looks once set up correctly
-![alt text](https://www.github.com/Ailyrr/KanjiReadingScraper/main/codeInEditor.png?raw=true)
+![alt text](codeInEditor.png?raw=true)
