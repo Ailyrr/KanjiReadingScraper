@@ -22,4 +22,6 @@ be reusing it. Thank you very much. ありがとうございます!
 
 
 How it looks once set up correctly
-![alt text](codeInEditor.png?raw=true)
+![Code sniplet in editor example](codeInEditor.png?raw=true)
+How the terminal output looks
+![Terminal view once run](resultInTerminal.png?raw=true)
